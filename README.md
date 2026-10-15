@@ -216,9 +216,9 @@ flowchart LR
 
 <a href="https://github.com/Kris05C"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- ✏️ CHANGE HERE (required): replace YOUR_LINKEDIN_URL with your full LinkedIn profile link, e.g. https://www.linkedin.com/in/your-id -->
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/krishna-chaurasiya-2a2540383"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <!-- ✏️ CHANGE HERE (required): replace YOUR_EMAIL with your real email address, e.g. mailto:name@gmail.com -->
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:chaurasiyakrishn05@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
